@@ -6,4 +6,5 @@
 - Day 4: I'm studied about dict "random" and build the game "rock, paper and scissors" with random.
 - Day 5: Using dict "secrets" with "random", I Build pypassword generate
 - Day 6: I solved several exercises and maps proposed by the teacher, and completed the final challenge.
-- Day 7: I created reply game called hangman, have four step and finally project in three file: hangman_art, hangman_words and hangman_game. 
+- Day 7: I created reply game called hangman, have four step and finally project in three file: hangman_art, hangman_words and hangman_game.
+- Day 8: I Created the fuction for encode and decode message in caesar Cipher. qnuux fxaum, r jaarenm!, shift = 9.
