@@ -10,6 +10,6 @@
 - Day 8: I Created the fuction for encode and decode message in caesar Cipher. message = "qnuux fxaum, r jaarenm!", shift = 9.
 - Day 9: Today i created a silent auction program and learned about dict.
 - Day 10: I Created a caculator, with divide, add, subtract, multiply fuction and today I Created the fuction for formated name and calc leap year. I Learn about DocsString too.
-- Day 11:
+- Day 11: We Created new project called BlackJack. The game to cards and score, with two players, you and computer. I created function, loop and manager with list.
 - Day 12:
 - Day 13:
