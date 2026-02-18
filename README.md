@@ -12,4 +12,4 @@
 - Day 10: I Created a caculator, with divide, add, subtract, multiply fuction and today I Created the fuction for formated name and calc leap year. I Learn about DocsString too.
 - Day 11: We Created new project called BlackJack. The game to cards and score, with two players, you and computer. I created function, loop and manager with list.
 - Day 12: Today i am builded the project called guess the number. The game have level easy (with 10 attempts) and hard (5 attempts). This is good game and I created with pseudo code logic.
-- Day 13:
+- Day 13: Today I learn about Bug and Debug. Today I don't build project, but I realized code review and debugs exercises.
