@@ -1,4 +1,6 @@
-**CoursePython100Days**
+# CoursePython100Days
+
+## Beginner
 
 - Day 1: I learned about variable and variable name. I build first project called "band name generator".
 - Day 2: I'm studied about type, and build one tip caculator.
@@ -14,3 +16,6 @@
 - Day 12: Today i am builded the project called guess the number. The game have level easy (with 10 attempts) and hard (5 attempts). This is good game and I created with pseudo code logic.
 - Day 13: Today I learn about Bug and Debug. Today I don't build project, but I realized code review and debugs exercises.
 - Day 14: Today I created the game "Higher Lower", it is game consists in avaliablefollowers counts the famous instagram accounts.
+
+## Intermediate
+- Day 15: Today I Created the Cooffee Machine program. The project simulated of machine with management coins quantity the wateer, milk and coffee. I learn more about loop.
