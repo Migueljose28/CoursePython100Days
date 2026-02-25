@@ -18,4 +18,5 @@
 - Day 14: Today I created the game "Higher Lower", it is game consists in avaliablefollowers counts the famous instagram accounts.
 
 ## Intermediate
-- Day 15: Today I Created the Cooffee Machine program. The project simulated of machine with management coins quantity the wateer, milk and coffee. I learn more about loop.
+- Day 15: Today I Created the Coffee Machine program. The project simulated of machine with management coins quantity the wateer, milk and coffee. I learn more about loop.
+- Day 16: Today I improved code at the Project  Coffee Machine. I'm implemented OOP (Object Oriented Programming).
