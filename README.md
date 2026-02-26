@@ -19,4 +19,5 @@
 
 ## Intermediate
 - Day 15: Today I Created the Coffee Machine program. The project simulated of machine with management coins quantity the wateer, milk and coffee. I learn more about loop.
-- Day 16: Today I improved code at the Project  Coffee Machine. I'm implemented OOP (Object Oriented Programming).
+- Day 16: Today I improved code at the Project Coffee Machine. I'm implemented OOP (Object Oriented Programming).
+- Day 17: Today I created Quiz project with score. The project was created using OOP.

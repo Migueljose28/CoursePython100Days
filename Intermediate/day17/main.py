@@ -1,9 +1,16 @@
-class User:
-    pass
+from question_model import Question
+from data import question_data
+from quiz_brain import QuizBrain
 
+question_bank = [
+    Question(data["text"], data["answer"])
+    for data in question_data
+]
 
-user_1 = User()
-user_1.id = "001"
-user_1.username = "Miguel"
+quiz = QuizBrain(question_bank)
 
-print(user_1.username)
+while quiz.still_has_questions():
+    quiz.next_question()
+
+print("You've completed the quiz")
+print(f"Your Final score was: {quiz.score}/{quiz.question_number}")
