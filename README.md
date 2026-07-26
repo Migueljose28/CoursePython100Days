@@ -38,3 +38,4 @@
 - Day 32: Currently I Finished The Birthday Wisher Project, however, before that, I created a script to send motivational messages weekly. Briefly, Today I practiced tuples, dict Comprehension, csv and pandas contents and I learned about smtp protocol.
 - Day 33: Today I practiced contents about Application Programming Interfaces (API) and status code. I able builded the ISS Overhead Notifier and Kanye Quotes project. Today I used tkinter, requests, datetime smtp tools. Ahh, Today I created the requests to sunset and sunrise API.
 - Day 34: Currently I created The GUI Quiz App with Tkinter and practiced API concepts. This project is a improved version of the project in Day 17.
+- Day 35: Today I learned about keys, authentication and environment variables. I Created the Alert Rain send via SMS.
