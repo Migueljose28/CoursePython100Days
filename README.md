@@ -39,3 +39,4 @@
 - Day 33: Today I practiced contents about Application Programming Interfaces (API) and status code. I able builded the ISS Overhead Notifier and Kanye Quotes project. Today I used tkinter, requests, datetime smtp tools. Ahh, Today I created the requests to sunset and sunrise API.
 - Day 34: Currently I created The GUI Quiz App with Tkinter and practiced API concepts. This project is a improved version of the project in Day 17.
 - Day 35: Today I learned about keys, authentication and environment variables. I Created the Alert Rain send via SMS.
+- Day 36: Today I builded the stock Tranding News Alert Project. I used 3 API to get amount, get news and send SMS. I practiced requests and adjusted json. The Current project send 3 content depending to different between 2 days.
