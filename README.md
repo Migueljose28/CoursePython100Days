@@ -42,4 +42,4 @@
 - Day 36: Today I builded the stock Tranding News Alert Project. I used 3 API to get amount, get news and send SMS. I practiced requests and adjusted json. The Current project send 3 content depending to different between 2 days.
 - Day 37. Today, in the course, I created the Habit Tracking Projet for register of commits. I too learned about API and methods.
 - Day 38: I created the Workout Tracking using Google Sheets. Today I practiced API, authentication API and environment variables.
-
+- Day 39: Today I created The Flight Deal Finder Project. Today my teacher increased the challenge by reducing the support provided through video lessons.
