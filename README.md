@@ -43,3 +43,4 @@
 - Day 37. Today, in the course, I created the Habit Tracking Projet for register of commits. I too learned about API and methods.
 - Day 38: I created the Workout Tracking using Google Sheets. Today I practiced API, authentication API and environment variables.
 - Day 39: Today I created The Flight Deal Finder Project. Today my teacher increased the challenge by reducing the support provided through video lessons.
+- Day 40: in this lesson I increased The Flight Deal Finder Project which added send via email and user data. Today I practiced API, OOP, arrays and etc...
