@@ -45,3 +45,4 @@
 - Day 39: Today I created The Flight Deal Finder Project. Today my teacher increased the challenge by reducing the support provided through video lessons.
 - Day 40: in this lesson I increased The Flight Deal Finder Project which added send via email and user data. Today I practiced API, OOP, arrays and etc..
 - Day 41: in this session, I review HTML concepts, more theoretical content
+- Day 42: Today I continued reviewed HTML concepts, I created Birthday invite page too.
